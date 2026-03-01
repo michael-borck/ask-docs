@@ -1,5 +1,9 @@
 # AskDocs
 
+<!-- BADGES:START -->
+[![cli-tool](https://img.shields.io/badge/-cli--tool-blue?style=flat-square)](https://github.com/topics/cli-tool) [![document-assistant](https://img.shields.io/badge/-document--assistant-blue?style=flat-square)](https://github.com/topics/document-assistant) [![llm](https://img.shields.io/badge/-llm-ff6f00?style=flat-square)](https://github.com/topics/llm) [![openai](https://img.shields.io/badge/-openai-412991?style=flat-square)](https://github.com/topics/openai) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![rag](https://img.shields.io/badge/-rag-blue?style=flat-square)](https://github.com/topics/rag) [![semantic-search](https://img.shields.io/badge/-semantic--search-blue?style=flat-square)](https://github.com/topics/semantic-search) [![text-ui](https://img.shields.io/badge/-text--ui-blue?style=flat-square)](https://github.com/topics/text-ui) [![web-app](https://img.shields.io/badge/-web--app-blue?style=flat-square)](https://github.com/topics/web-app) [![tool](https://img.shields.io/badge/-tool-607d8b?style=flat-square)](https://github.com/topics/tool)
+<!-- BADGES:END -->
+
 A general-purpose document assistant for any documentation using RAG and LLMs like OpenAI, Claude, Gemini, Groq, and Ollama.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
